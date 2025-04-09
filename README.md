@@ -1,0 +1,2 @@
+# practicum
+Some educational projects
